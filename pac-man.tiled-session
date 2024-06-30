@@ -1,0 +1,108 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "data/tmx/map.tmx",
+    "expandedProjectPaths": [
+        "data",
+        "data/tsx",
+        ".",
+        "data/tmx"
+    ],
+    "fileStates": {
+        "data/tmx/map.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 70.33333333333334,
+                "y": 141.33333333333334
+            }
+        },
+        "data/tmx/tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "data/tsx/az.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "data/tsx/map.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "data/tsx/map_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "data/tsx/maze.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "data/tsx/mazz.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "data/tsx/newma.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 45
+        },
+        "data/tsx/tiles.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 11
+        },
+        "data/tsx/tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "data/tsx/tiles3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "data/tsx/tiles4.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 5.5
+        },
+        "test.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "test2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/LS/Work/Pac-Man/data",
+    "last.imagePath": "C:/Users/LS/Work/Pac-Man/data/spritesheets",
+    "lastUsedTilesetExportFilter": "Tous les Fichiers (*)",
+    "map.height": 31,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 28,
+    "openFiles": [
+        "data/tmx/map.tmx"
+    ],
+    "project": "pac-man.tiled-project",
+    "recentFiles": [
+        "data/tmx/map.tmx",
+        "data/tsx/map_tiles.tsx",
+        "data/tsx/map.tsx",
+        "data/tsx/newma.tsx",
+        "data/tsx/az.tsx",
+        "data/tsx/maze.tsx",
+        "data/tsx/mazz.tsx",
+        "data/tsx/tiles.tsx",
+        "data/tsx/tiles4.tsx",
+        "data/tsx/tiles2.tsx",
+        "data/tsx/tiles3.tsx",
+        "data/tmx/tiles2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
